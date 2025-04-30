@@ -8,7 +8,6 @@ Dataset
 Usage
 Models Used
 Evaluation
-Contributing
 License
 
 🌟 Introduction
