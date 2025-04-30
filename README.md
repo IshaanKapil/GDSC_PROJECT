@@ -64,7 +64,7 @@ View training curves in the “Plot History” cell.
 9. After training, save your model checkpoints and a CSV of predictions back to Drive for future use.
 
 USAGE
-Clone the repository: https://github.com/Mastergogo440/GDSC_PROJECT.git
+Clone the repository: https://github.com/IshaanKapil/GDSC_PROJECT.git
 
 🤖 Models Used
 Support Vector Machine (SVM)
